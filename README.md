@@ -15,4 +15,4 @@ aria2.conf 中的dir参数定义了默认下载路径
 
 start_rpc.sh 是启动脚本建议设置开机启动
 
-update-tracker.sh 是自动更新tracker脚本 默认一周一次更新,配合cron
+update-tracker.sh 是自动更新tracker脚本 默认一周一次更新,配合cron 需要定义homedir目录
